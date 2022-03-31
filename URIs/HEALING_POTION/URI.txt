@@ -1,5 +1,5 @@
 {
 	"id": 0,
 	"name": "Healing Potion",
-	"image": ""
+	"image": "https://github.com/ApieDePapie/testNFTURI/blob/main/URIs/HEALING_POTION/Sprite.png"
 }
