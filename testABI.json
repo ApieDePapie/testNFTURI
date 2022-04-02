@@ -1,0 +1,52 @@
+[
+    {
+        "type": "function",
+        "name": "acceptManager",
+        "inputs": [],
+        "stateMutability": "nonpayable"
+    },
+    {
+        "type": "function",
+        "name": "unknown7457bbf7",
+        "inputs": [],
+        "stateMutability": "nonpayable"
+    },
+    {
+        "type": "function",
+        "name": "unknown8d0a3a08",
+        "inputs": [],
+        "stateMutability": "nonpayable"
+    },
+    {
+        "type": "function",
+        "name": "unknowna0a2daf0",
+        "inputs": [
+            {
+                "name": "param1",
+                "type": "uint32"
+            }
+        ],
+        "stateMutability": "nonpayable"
+    },
+    {
+        "type": "function",
+        "name": "transferManager",
+        "inputs": [
+            {
+                "name": "newManager",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "nonpayable"
+    },
+    {
+        "type": "function",
+        "name": "getManager",
+        "inputs": [],
+        "stateMutability": "nonpayable"
+    },
+    {
+        "type": "fallback",
+        "stateMutability": "payable"
+    }
+]
