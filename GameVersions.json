@@ -1,14 +1,14 @@
 {
-  "Godspeed":{
-    "GameVersion":0,
-    "GameName":"Godspeed",
-    "ExecutablePath":"/Game/Bin/Game.exe",
-    "Source":"https://github.com/ApieDePapie/testNFTURI/edit/main/GameVersions.json"
-  },
-  "NewFightTown":{
-    "GameVersion":0,
-    "GameName":"New Fight Town",
-    "ExecutablePath":"/Game/Bin/Game.exe",
-    "Source":"https://github.com/ApieDePapie/testNFTURI/edit/main/GameVersions.json"
-  }
+	"Godspeed": {
+		"GameVersion": 0,
+		"GameName": "Godspeed",
+		"ExecutablePath": "/Game/Bin/Game.exe",
+		"Source": "https://github.com/ApieDePapie/testNFTURI/edit/main/GameVersions.json"
+	},
+	"NewFightTown": {
+		"GameVersion": 0,
+		"GameName": "New Fight Town",
+		"ExecutablePath": "/Game/Bin/Game.exe",
+		"Source": "https://github.com/ApieDePapie/testNFTURI/edit/main/GameVersions.json"
+	}
 }
